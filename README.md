@@ -1,6 +1,6 @@
 # Interactive Event Invite - Character Gala 🎉
 
-This project is part of the Scrimba course ["AI Coding for Non-Coders"](https://scrimba.com/learn/aicoding) to build an Interactive Event Invite using ChatGPT prompts.
+This project is part of the Scrimba course [AI Coding for Non-Coders](https://scrimba.com/learn/aicoding) to build an Interactive Event Invite using ChatGPT prompts.
 
 ## Description 📝
 
